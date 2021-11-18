@@ -3,7 +3,6 @@ import collections
 import networkx as nx
 import numpy as np
 import copy
-from tqdm.notebook import trange, tqdm
 
 def network_to_structured(graph):
     if type(graph) is graph_tool.Graph or type(graph) is graph_tool.GraphView:
