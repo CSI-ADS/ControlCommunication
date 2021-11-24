@@ -1,10 +1,10 @@
-# Communication coordination in network controllability
+# Communication coordination assumptions in network controllability
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789) -->
 
-Code for the paper on "Communication coordination in network controllability", van den Heuvel and Nys (2021)
+Code for the paper on "Communication coordination assumptions in network controllability", van den Heuvel and Nys (2021)
 
 ## Content
 
